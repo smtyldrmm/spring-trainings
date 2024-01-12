@@ -11,7 +11,7 @@ public class HomeController {
         return "home.html";
     }
 
-    @RequestMapping("/ozzy")
+    @RequestMapping("/samet")
     public String getHomePage2(){
         return "home.html";
     }
